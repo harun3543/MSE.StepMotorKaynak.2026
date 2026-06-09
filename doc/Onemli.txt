@@ -1,0 +1,23 @@
+PISTON 1 - UST PISTON
+PISTON 2 - ALT PISTON
+PISTON 3 - TORC PISTONU
+
+STEP SURUCU - 1600 PULS E AYARLI
+
+UST STEP KABLO BAGLANTILARI 
+A+ = KIRMIZI
+A- = MAVİ
+B+ = SIYAH
+B- = KAHVERENGI
+
+ALT STEP KABLO BAGLANTILARI
+A+ = SIYAH
+A- = KAHVERENGI
+B+ = KIRMIZI
+B- = MAVI
+
+
+1 bobin	kırmızı+mavi
+2 bobin	sarı + siyah
+3 bobin	kahve+yeşil
+4 bubin	beyaz+truncu
